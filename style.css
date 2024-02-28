@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+
+}
+
+.post {
+    background-color: white;
+    width: auto;
+    height: 100%;
+}
+.post-header{
+    display:flex
+}
+.post-icon {
+    display:flex
+}
